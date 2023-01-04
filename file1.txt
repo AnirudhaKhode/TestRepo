@@ -1,3 +1,3 @@
 Hello to first file
 changes after first commit
-changes of branch - B1
+changes of branch B1 and this change is done by B2
